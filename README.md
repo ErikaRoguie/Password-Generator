@@ -11,3 +11,5 @@ SO THAT I can create a strong password that provides greater security
 
 ## Useage
 ![alt text](.Password-Generator/../Screenshot%202022-01-11%20at%2014-46-23%20Password%20Generator.png!)
+
+Erika Sanders
