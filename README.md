@@ -10,6 +10,6 @@ The program is added to the existing code. The user only has to answer the quest
 ### Useage
 
 
-(Image src= ./Password-Generator/Screenshot 2022-01-11 at 14-46-23 Password Generator.png)
+![alt text](./Assets/images/Screenshot-Password-Generator.png)
 
 Erika Sanders
