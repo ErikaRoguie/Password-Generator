@@ -26,7 +26,9 @@ const isLoggedIn = true;
 if (isLoggedIn == true) {
   const statusMessage = "User is logged in. No need to generate password.";
   console.log(statusMessage)
-}
+};
+var genratePassword = function(){
+  var pasword
 function passworGeneration() {
   var fileType = [Public = selfGeneratedPassword; break; personal = selfGeneratedPassword; break; private = passworGeneration; break; work = passworGeneration; break; encrypted = passworGeneration * 1; break; work encrypted = passworGeneration * 2];
   console.log("What is the file type you need to access?");
